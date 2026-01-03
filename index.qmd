@@ -1,0 +1,76 @@
+---
+title: "WELCOME TO MICB 323"
+---
+
+
+We look forward to working with all of you this term to do some science! This lab course is a structured inquiry lab course. This means we will provide central research questions, and guidance on the protocols to answer them. You will conduct experiments in the lab individually or with your peers; you will collect data and tell a story in the form of a scientific manuscript. You will gain fundamental technical skills in cell biological techniques, build analytical skills, evaluate experimental data, and practice scientific writing.
+
+---
+
+## Teaching team
+
+### Instructors
+
+**Dr. Sreeparna Vappala** (she/her)<br>
+<span style="color:gray;">Course coordinator and Instructor</span> 
+
+- You can call me Sree.
+- Email: [s.vappala@ubc.ca](mailto:s.vappala@ubc.ca)
+- Office: Biological Sciences, 3106
+- I don’t have set office hours for MICB 323, but I am always happy to meet. Reach out via email for additional support and we will set a mutually convenient time to meet either in person, in the lab or via zoom.
+
+
+**Kabir Bhalla** (He/Him)<br>
+<span style="color:gray;">Instructor</span>
+
+- Email: [kabir.bhalla@msl.ubc.ca](mailto:kabir.bhalla@msl.ubc.ca)
+- I don’t have formal learning support hours for MICB 323, but I am very happy to meet whenever you need. Send me an email, and we will set up an in-person or virtual meeting.
+
+---
+
+### Teahcing Assistants
+Connect with your TAs in the lab
+
+- Cynthia Chung [cynthia.chung@ubc.ca](mailto:cynthia.chung@ubc.ca)
+- Josepha Klas [jmklas@student.ubc.ca](mailto:jmklas@student.ubc.ca)
+- Lianne Presley [lpresley@student.ubc.ca](mailto:lpresley@student.ubc.ca)
+- Thomas Worthington [tworth01@mail.ubc.ca](mailto:tworth01@mail.ubc.ca)
+
+---
+
+### Technical Staff
+- Manjeet Bains (Technical Lead)
+- Noushin Akhoundsadegh (Technical Support)
+
+
+## Course Logistics
+
+**LECTURES**
+
+Note that class sessions will require active class engagement and will not be recorded.
+
+**Time:** Monday 1-3pm   
+**Location:** [P. A. Woodward Instructional Resources Centre (IRC)](https://maps.ubc.ca/?code=IRC) | Floor: G | **Room: 1**
+
+**LABS**
+
+All labs will take place in **Room 3145** [Biological Sciences Building](https://maps.ubc.ca/?code=BIOL), 1-5pm. 
+
+:::{.callout-note}
+## First Lab
+The first lab will begin the week of Jan 12th.
+:::
+
+- L01 – Tuesday (Kabir Bhalla)
+- L02 – Wednesday (Sreeparna Vappala)
+- L03 – Thursday (Kabir Bhalla)
+- L04 – Friday (Sreeparna Vappala)
+
+
+---
+
+## Key Dates
+- **First Class:** - January 5, 2026
+- **First Lab:** Week of January 12, 2026
+- **Practical assessment:** Week of February 23, 2026
+- **Final:** During the April 14–25 final exam period. Date and time TBA.

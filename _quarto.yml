@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "MICB 323: Molecular Immunology & Virology Laboratory"
+  description: "MOLECULAR IMMUNOLOGY & VIROLOGY LABORATORY"
+  navbar:
+    left:
+      - overview.qmd
+      - evaluation.qmd
+      - course_policies.qmd
+      - schedule.qmd
+    right:
+      - text: "Dowdload as PDF"
+        href: MICB323-2025WT2-Syllabus.pdf
+      - icon: github
+        href: https://github.com/your-org/biology-lab
+
+format:
+  html:
+    theme:
+      light: 
+        - Lumen
+        - assets/theme.scss
+      dark:
+        - cosmo
+        - assets/theme.scss 
+      
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    link-external-icon: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

@@ -1,0 +1,48 @@
+---
+title: "Teaching Team"
+format:
+  html:
+    toc: true
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry: margin=1in
+    toc: false
+    number-sections: false
+    linkcolor: blue
+---
+
+---
+
+## Instructors
+
+**Dr. Sreeparna Vappala** (she/her)<br>
+<span style="color:gray;">Course coordinator and Instructor</span> 
+
+- You can call me Sree.
+- Email: [s.vappala@ubc.ca](mailto:s.vappala@ubc.ca)
+- Office: Biological Sciences, 3106
+- I don’t have set office hours for MICB 323, but I am always happy to meet. Reach out via email for additional support and we will set a mutually convenient time to meet either in person, in the lab or via zoom.
+
+
+**Kabir Bhalla** (He/Him)<br>
+<span style="color:gray;">Instructor</span>
+
+- Email: [kabir.bhalla@msl.ubc.ca](mailto:kabir.bhalla@msl.ubc.ca)
+- I don’t have formal learning support hours for MICB 323, but I am very happy to meet whenever you need. Send me an email, and we will set up an in-person or virtual meeting.
+
+---
+
+## Teahcing Assistants
+Connect with your TAs in the lab
+
+- Cynthia Chung [cynthia.chung@ubc.ca](mailto:cynthia.chung@ubc.ca)
+- Josepha Klas [jmklas@student.ubc.ca](mailto:jmklas@student.ubc.ca)
+- Lianne Presley [lpresley@student.ubc.ca](mailto:lpresley@student.ubc.ca)
+- Thomas Worthington [tworth01@mail.ubc.ca](mailto:tworth01@mail.ubc.ca)
+
+---
+
+## Technical Staff
+- Manjeet Bains (Technical Lead)
+- Noushin Akhoundsadegh (Technical Support)

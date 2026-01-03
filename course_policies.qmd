@@ -1,0 +1,59 @@
+---
+title: "Policies"
+format:
+  html:
+    toc: true
+---
+
+## Academic Integrity Policies
+As members of the UBC community, you are part of a large network of academics across the globe, whose primary business is ideas. How exciting! Academic integrity is the foundation on which all university endeavors are built, from the most advanced research to the smallest document created by a student for a course or club. Everything we do depends on our ability to create and share in an
+environment where we can trust each other to work honestly and ethically to create knowledge and build scholarship. When you registered for your first course at UBC, [you agreed to uphold these values](https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/academic-honesty-and-standards#15620) and to uphold academic integrity in all of your scholastic endeavors. We encourage all students to explore UBC resources on [Academic Integrity](https://academicintegrity.ubc.ca/student-start/), and to review what constitutes [academic misconduct](https://academicintegrity.ubc.ca/regulation-process/academic-misconduct/).
+
+Breaches of academic integrity or academic misconduct have consequences. We will first meet with you to discuss the situation, but all suspected academic integrity violations will be reported to the Dean of Students as academic misconduct (violation of course rules). Consequences for academic misconduct may include a failing grade on an assignment, exam, an overall reduction in your final course grade, or a failing grade in the course, among other possibilities. Here is a non-exhaustive list of activities that are classified as academic misconduct:
+
+- **CHEATING** – this includes working together on an assignment and using any additional resources to help you if you have not been instructed to do so (ex: a former student’s course assignment).
+
+- **BREACHING THE RULES OF AN EXAM** – this includes breaching an agreed-upon academic integrity pledge.
+
+- **PLAGIARISM** – this can mean submitting work that is not your own, or not properly attributing someone’s ideas with appropriate citations. Adding your name to a group assignment when you have not contributed, is also considered plagiarism. You can also plagiarize yourself! You are not permitted to submit the same work, even if it is your own, to receive credit for more than one assignment.
+
+- **ACCESSING AND SUBMITTING COURSE MATERIAL TO THIRD PARTY WEBSITES** – Several commercial services (ex: Course Hero) have approached students regarding selling/posting class notes, study guides, and other course materials. Distributing the instructor’s notes, exam questions and other course materials in this course is not permitted, ever. It is important for you to know that these third-party sites maintain a record of all submissions. This can have negative repercussions for your future. There have been cases where students were caught engaging in this behavior, which impacted their admission to professional school years later! Just don’t do it. See more information below in the copyright disclaimer.
+
+
+### Usage of GenAI tools
+<!--**A special note about the use of Generative artificial intelligence (GenAI) tools:**-->
+Generative artificial intelligence (GenAI) tools that use large language models (LLMs) to generate written content based on a large dataset of training data, such as ChatGPT, have become widely accessible. Whilst these tools offer many possibilities to support learning, they also come with challenges and are no substitute for key goals of the course, to learn to evaluate primary scientific articles, and practice the craft of scientific writing.
+
+You should be aware that GenAI tools can produce biased, false, or misleading content, because of the nature of the content in the training datasets. They are designed to produce the most statistically plausible text result, not necessarily the correct one. Most importantly, they cannot take responsibility for what they produce. You, on the other hand, must do this – it is a fundamental part of writing with integrity. So when engaging with these tools, you should ALWAYS verify all results from these tools against other scholarly sources, and take responsibility for their outputs. It is also important to acknowledge where GenAI tools have been used in an assessment according to what is emerging as the accepted academic convention by citing the use according to the APA style: [https://apastyle.apa.org/blog/how-to-cite-chatgpt](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
+
+**Specific Guidelines in MICB 323:**
+- It is NOT acceptable to have a GenAI tool write assignments on your behalf, or to write your assignment fully in another language and use a translation tool to write it in English;
+
+- It is acceptable to use a GenAI-driven translation tool to translate words and short phrases that you have written yourself in another language. Similarly, you may use translation tools as well as spelling and grammar editors to double-check an assignment draft that you have already written in English;
+
+- It is acceptable to use GenAI tools to gather preliminary information, much in the same way one might consult Wikipedia. However, any outputs must be verified with scholarly sources.
+
+- You are expected to cite scholarly sources, and you must cite your use of GenAI tools. We expect students to include a brief statement disclosing how it was used according to the instructions in the assignment.
+- If you are unsure whether your use of GenAI is acceptable, please ask the Teaching team for guidance.
+
+**Final thoughts:** The MICB 323 teaching team wants you to succeed, but we want you to do it fairly, and honestly. We feel that the use of GenAI has many positive uses, but also has the potential to stifle independent, creative thinking, and limit skill development and learning. Remember that we are members of the academic community, too, so we believe in the value of academic integrity in our scholarly work. We are also employees of UBC, so we are also expected to uphold the values (and policies) of UBC. We will hold you to the standards that we are held to, and we will investigate when there is an indication that academic misconduct has occurred.
+
+Feel free to ask reach out to us to chat about academic integrity. Part of our job is to guide your growth as a scholar, and we would much rather you ask for clarification than unintentionally engage in academic misconduct, which has serious consequences. Sometimes students who are experiencing a lot of stress feel the only way to deal with a situation is to cheat. Please do not do this. If you reach out early, we can work something out together - [s.vappala@ubc.ca](mailto:s.vappala@ubc.ca).
+
+Please visit the Academic Integrity Hub to learn more about Academic Integrity at UBC.
+[https://academicintegrity.ubc.ca/](https://academicintegrity.ubc.ca/)
+
+**COPYRIGHT DISCLAIMER:**
+
+With much of the course material posted online, there is a great temptation to download and repost course material to third party sites. This is not a good idea, or in any way fair to those that have worked so hard to create this material. Textbooks and lab instructions take years to create and keep up to date. Assignments and exams are carefully crafted and take hours of work to get right. Diagrams and figures included in lecture presentations adhere to Copyright Guidelines for UBC Faculty, Staff and Students [http://copyright.ubc.ca/requirements/copyright-guidelines/](http://copyright.ubc.ca/requirements/copyright-guidelines/) and UBC Fair Dealing Requirements for Faculty and Staff [http://copyright.ubc.ca/requirements/fair- dealing/](http://copyright.ubc.ca/requirements/fair- dealing/). All material uploaded to Canvas that contain diagrams and figures are used with permission of the publisher; are in the public domain; are licensed by Creative Commons; meet the permitted terms of use of UBC’s library license agreements for electronic items; and/or adhere to the UBC Fair Dealing Requirements for Faculty and Staff. Access to the Canvas course site is limited to students currently registered in this course. Under no circumstance are students permitted to provide <u>any other person</u> with means to access this material. Distribution of this material to a third party is strictly forbidden. This includes taking pictures/videos of copyrighted material on your own mobile device, and sharing them with others. Screenshots, photos and other recordings that you create of course material are for <u>your own personal use</u>, and <u>cannot be uploaded to any websites</u>, or shared with anyone that might do so. Note that the person who shares the work is just as liable as the person that uploads it unlawfully.
+
+## Other Course Policies
+
+**Academic concession**
+
+You may need to request an academic concession for medical reasons, on compassionate grounds, or in certain cases of conflicting responsibilities. Please refer to UBC’s policy on Academic Concession for details.
+To apply for an [academic concession](https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/academic-concession), please inform your instructor as soon as possible.
+
+**If you are ill**
+
+Please don’t come to class or lab if you have an illness that could be transmitted to your classmates (e.g., a respiratory infection). In this class, we will be flexible so that you can prioritize your health and still succeed. If you are ill, please inform your lead lab instructor and the course coordinator (Sree). You will not lose participation marks if you miss a small number of classes due to illness. If you are ill for a long period of time, please contact Sree to discuss, and apply for an academic concession. More information about UBC’s framework for preventing communicable disease is [here](https://srs.ubc.ca/health-safety/safety-programs/communicable-disease-prevention-framework/).

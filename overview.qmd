@@ -1,0 +1,105 @@
+---
+title: "Overview"
+format:
+  html:
+    toc: true
+---
+
+
+## Communication
+
+We will be connecting with you in the lab and in lecture regularly. For additional help, Sree and Kabir are happy to meet with you outside class by appointment. Please reach out! If you have any concerns about course logistics or other matters you wish to discuss privately, please reach out to the course coordinator (Sree) via email at [s.vappala@ubc.ca](mailto:s.vappala@ubc.ca).
+
+---
+
+## Pre-Requisites
+
+- **MICB 322 (MOLECULAR MICROBIOLOGY LABORATORY)**
+This course is restricted to students in one of these programs: BSc with one of these specializations: Honours MBIM, OR, Major MBIM.
+
+- **RECOMMENDED – MICB 212 (INTRODUCTORY MEDICAL MICROBIOLOGY AND IMMUNOLOGY)**
+You should be familiar with the major virology and immunology concepts discussed in MICB 212 (formerly MICB 202). We will review some key concepts before exploring these topics in more detail, but please review your notes from this course.
+
+## Course Materials
+
+### Labs: 
+For in-person labs, you are expected to have the following items:
+
+- A knee-length laboratory coat.
+- Eye protection.
+- A bound lab notebook (see guidelines on how to keep a lab notebook posted on Canvas). Note, you are permitted to continue using the same lab notebook you used for MICB 322 as long as it is bound, and there is ample space left.
+- A waterproof, permanent marker (sharpie) is appropriate for labeling materials in the lab.
+- Note: It is a personal decision whether you choose to wear additional PPE such as a mask to help prevent transmission of respiratory viruses like SARS-CoV2. We support your choice to do so.
+
+### Course Canvas Page: 
+Canvas is UBC’s Learning Management System
+
+- URL [www.canvas.ubc.ca](www.canvas.ubc.ca) - MICB 323 Section 201 – 2025W2; requires UBC CWL ID.
+- For Canvas help, contact the Help Desk: [https://students.canvas.ubc.ca/help/](https://students.canvas.ubc.ca/help/)
+
+### Technical Requirements: 
+In this course, you will need a computer/tablet with reliable internet, capable of streaming video. A smartphone will not be enough. You will need to be able to type for assignments, quizzes, and other coursework.
+Your computer will also need the usual set of software, including:
+
+- A Microsoft Office (or equivalent) suite of programs (UBC maintains licenses for many programs that allow student discounts/ downloads. See [https://it.ubc.ca/software-downloads](https://it.ubc.ca/software-downloads)).
+- At least two up-to-date web browsers (Canvas works best in Chrome; other software will be optimized for other browsers). Currently I have Safari, Firefox and Chrome on my computer.
+- You may be asked to access additional data analysis software. For example, we will likely analyze data using **ImageJ** ([FIJI](https://fiji.sc/)), **FlowJo**, and **Prism GraphPad** ([Prism](https://www.graphpad.com/scientific-software/prism/)).
+
+## Course Goals
+
+In MICB 323, students will demonstrate learning by:
+
+1. following all safety rules and anticipating and preparing for any potential risks.
+2. correctly using and applying the selected laboratory techniques and tools.
+3. being able to perform standard calculations typically used to make solutions and make up working concentrations of reagents.
+4. keeping complete lab notes so that colleagues can figure out what experiments were done, why they were done, and how they were done.
+5. conducting experiments and working as a team to accomplish lab work.
+6. explaining the theory behind the experimental techniques.
+7. processing and analyzing raw data, and presenting data in a meaningful form.
+8. reporting the direct inferences from data, coming up with possible interpretations of the data, and connecting these interpretations to the research of others.
+9. evaluating and interpreting data from published research articles.
+10. demonstrating scientific writing skills and presenting the work performed in research paper format.
+
+---
+
+## What to expect in MICB 323
+
+### LAB Module: 
+The aim of the in-person labs is to practice technical skills at the bench that are relevant to any cellular immunology and/or virology lab. Our main focus is to introduce you to mammalian cell culture work, to build skills in working methodically and efficiently at the bench, and to build gradual independence in your lab skills. In a research lab, it is not possible to work from a perfectly pre-constructed list of instructions. Instead, researchers look up research documents, manuals, reagent information, and procedures, to design and plan their own experiments. You will be expected to look up several resources related to the experimental tasks, and to perform routine lab calculations. Practicing these skills and being resourceful to understand the lab techniques from a variety of sources will help you be prepared for labs in fourth year that require you to design your own experiments to answer research questions. Some of the techniques you will get hands-on experience with this term include:
+
+- Bacterial transformation and plasmid isolation,
+- Mammalian cell culture and aseptic technique in a biological safety cabinet,
+- Cell labelling techniques and fluorescence microscopy,
+- Protein isolation, western blotting,
+- RNA isolation and RT-qPCR,
+- ELISA
+- Splenic cell isolation and Flow Cytometry
+- industry-standard documentation in a lab notebook
+
+*We will use these techniques to answer aspects of the following broad __RESEARCH QUESTION__:*
+
+<span style="color:navy;">**HOW DO MACROPHAGES RESPOND TO PATHOGENS?**</span>
+
+
+To address this broad question, we will use an in vitro cell culture model of mouse macrophages stimulated with purified lipopolysaccharide (LPS) as a proxy for infection with a bacterial pathogen. You can look up the cell line we will be primarily using here: [https://www.atcc.org/products/tib-67](https://www.atcc.org/products/tib-67)
+
+We have the following more specific **RESEARCH QUESTIONS**:
+
+1. Does short-term exposure to LPS activate the MAPK signaling pathway in J774A.1 macrophage cells?
+2. Do cells change shape in response to LPS in J774A.1 mouse macrophage cells? Is the subcellular structure of the actin cytoskeleton altered?
+3. Does LPS exposure lead to increased mRNA production and protein secretion of the cytokine TNF alpha in the J774A.1 mouse macrophage cells? If so, what are the kinetics of these changes?
+
+Another important part of doing good science is being a respectful, conscientious citizen in the lab, and to work effectively on a team. Initially, everyone will work individually in the lab so everyone practices fundamental skills at the bench, and receive individualized feedback from the teaching team about your technique. Some of the later lab activities will be performed in pairs or groups of students.
+
+
+### LECTURE Module: 
+This course is not intended to focus solely on learning various techniques. The goal is also to help you practice some fundamental aspects of the process of science. Part of “doing science” is collecting and presenting data meaningfully to an audience. During the lecture component of the course, we will spend time building skills in the following:
+
+- engaging with and evaluating the primary literature;
+- data analysis, and visualization using various software packages
+- scientific writing in the form of scientific manuscripts.
+
+---
+
+
+

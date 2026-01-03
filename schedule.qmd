@@ -1,0 +1,12 @@
+---
+title: "Schedule"
+format:
+  html:
+    toc: true
+---
+
+Schedule and description of topics may be subject to change.
+<iframe src="tentative_sch.pdf" width="120%" height="600px"></iframe>
+
+
+ 

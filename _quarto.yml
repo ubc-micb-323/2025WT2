@@ -5,6 +5,7 @@ project:
 website:
   title: "MICB 323: Molecular Immunology & Virology Laboratory"
   description: "MOLECULAR IMMUNOLOGY & VIROLOGY LABORATORY"
+  site-url: https://ubc-micb-323.github.io/2025WT2
   navbar:
     left:
       - overview.qmd
@@ -15,7 +16,7 @@ website:
       - text: "Dowdload as PDF"
         href: MICB323-2025WT2-Syllabus.pdf
       - icon: github
-        href: https://github.com/your-org/biology-lab
+        href: https://github.com/ubc-micb-323/2025WT2
 
 format:
   html:

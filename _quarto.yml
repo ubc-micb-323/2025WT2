@@ -13,7 +13,7 @@ website:
       - course_policies.qmd
       - schedule.qmd
     right:
-      - text: "Dowdload as PDF"
+      - text: "Download as PDF"
         href: MICB323-2025WT2-Syllabus.pdf
       - icon: github
         href: https://github.com/ubc-micb-323/2025WT2

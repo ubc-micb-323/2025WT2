@@ -36,7 +36,7 @@ format:
 ## Teahcing Assistants
 Connect with your TAs in the lab
 
-- Cynthia Chung [cynthia.chung@ubc.ca](mailto:cynchung@student.ubc.ca)
+- Cynthia Chung [cynchung@student.ubc.ca](mailto:cynchung@student.ubc.ca)
 - Josepha Klas [jmklas@student.ubc.ca](mailto:jmklas@student.ubc.ca)
 - Lianne Presley [lpresley@student.ubc.ca](mailto:lpresley@student.ubc.ca)
 - Thomas Worthington [tworth01@mail.ubc.ca](mailto:tworth01@mail.ubc.ca)

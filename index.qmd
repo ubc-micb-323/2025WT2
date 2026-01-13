@@ -62,10 +62,10 @@ All labs will take place in **Room 3145** [Biological Sciences Building](https:/
 The first lab will begin the week of Jan 12th.
 :::
 
-- L01 – Tuesday (Kabir Bhalla)
-- L02 – Wednesday (Sreeparna Vappala)
-- L03 – Thursday (Kabir Bhalla)
-- L04 – Friday (Sreeparna Vappala)
+- L03 – Tuesday (Kabir Bhalla)
+- L04 – Wednesday (Sreeparna Vappala)
+- L05 – Thursday (Kabir Bhalla)
+- L06 – Friday (Sreeparna Vappala)
 
 
 ---
